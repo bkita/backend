@@ -1,4 +1,4 @@
-# Sample rest API test for jsonplaceholder
+# Sample Rest API test for jsonplaceholder
 
 ## Run Automated Tests
 To run the tests use simple maven command:  
